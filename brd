@@ -1,0 +1,131 @@
+BUSINESS REQUIREMENTS 
+DOCUMENT 
+
+PROJECT DETAILS 
+PROJECT NAME
+Health Hub
+A Patient Centered Healthcare System
+CREATOR
+Gen Risers Team 1
+DURATION	DATE
+6 weeks	4th April – 16th May
+
+1. PROJECT OVERVIEW
+
+The objective of this project is to create a patient centralized healthcare website that offers the hospital and patient to upload their medical records and view the old medical records. The goal of this project is to develop a healthcare website that provides patient with more informed and precise judgements regarding the patient’s health.  The website will help patient feels like he/she is finally in control of his/her health and can focus on living life instead of worrying about managing their medical records.
+
+A key feature of a patient healthcare system is the emphasis on patient-centric care. This means that the system is designed to prioritize and cater to the needs and preferences of individual patients. Patients have access to their health information, allowing them to actively participate in their own care decisions. They can view and update their medical records, track their health indicators, and receive personalized health recommendations.
+
+The patient centralized healthcare system also focuses on care coordination and continuity. It facilitates seamless transitions between different healthcare settings, such as hospitals, clinics, and home care. The healthcare website will target patients of all ages and backgrounds. It will be designed to be user-friendly, accessible.
+
+The success of this project can be measured through various indicators that assess its effectiveness, efficiency, and impact on patient care. Patient satisfaction is a crucial measure, as it reflects the system's ability to meet patient needs, enhance access to care, and improve the patient-provider relationship. Additionally, improved health outcomes, such as reduced hospital readmissions, better chronic disease management, and overall health status, indicate the system's positive impact on patient health and well-being.
+
+
+2. BUSINESS OBJECTIVES
+
+Description of Business Objectives:
+
+•	The primary objective of this healthcare project is to enhance the quality of patient care. By centralizing patient data, healthcare providers can have a comprehensive view of patients' medical history, diagnoses, medications, and test results. This enables more accurate diagnoses, effective treatment planning, and improved care coordination among different providers. Ultimately, the objective is to enhance patient outcomes, satisfaction, and overall health.
+•	Additionally, the healthcare website will streamline and optimize operational processes within the healthcare organization. A centralized system can automate administrative tasks, reduce paperwork, and improve the efficiency of data management. This can lead to time and cost savings, improved resource utilization, and a more productive workflow for healthcare providers.
+
+Meeting the Needs of Target Audience:
+
+•	In traditional healthcare systems, patient information is often fragmented and scattered across different providers and healthcare facilities. This fragmentation can hinder effective care coordination, leading to fragmented and inefficient care delivery. A centralized healthcare system enables healthcare providers to access and share comprehensive patient information, facilitating seamless care coordination and continuity across different settings and providers.
+
+•	Moreover, this system promotes continuity of care, particularly in cases where patients receive care from multiple providers or undergo transitions between different healthcare settings. By consolidating patient information in a central repository, healthcare providers can access comprehensive and consistent data, enabling them to provide personalized and informed care across different points of care.
+
+•	In conclusion, a patient centralized healthcare system aims to enhance care coordination, patient safety, efficiency, patient empowerment, data analytics, and compliance, ultimately improving the overall quality of healthcare delivery and patient outcomes.
+
+
+
+3. NEEDS STATEMENT
+
+
+The problem that the centralized healthcare project aims to provide comprehensive patient information, improve care coordination, enhance patient safety, empower, and engage patients, leverage data-driven insights, and ensure compliance and data security. By addressing these needs, such a system can significantly enhance the quality, safety, and efficiency of healthcare delivery, leading to better patient outcomes and experiences.
+
+The need for a patient centralized healthcare system arises from various challenges and limitations in traditional healthcare systems. Firstly, the fragmented nature of patient information across multiple providers and facilities hinders efficient and coordinated care. A centralized system is necessary to consolidate and organize patient data, ensuring that healthcare providers have access to comprehensive and up-to-date information for informed decision-making and seamless care coordination.
+
+Another need for a centralized system is to empower patients and enhance their engagement in their own healthcare. By granting patients access to their health records, test results, and treatment plans, they can actively participate in decision-making and take charge of their health. This promotes patient education, shared decision-making, and a sense of ownership, leading to improved health outcomes and patient satisfaction.
+
+Furthermore, a centralized healthcare system enables data-driven insights and population health management. By analyzing aggregated patient data, healthcare organizations can identify trends, patterns, and areas for improvement in healthcare delivery. This facilitates targeted interventions, preventive care strategies, and effective resource allocation, ultimately improving healthcare outcomes at both the individual and population levels.
+
+Overall, the needs of a patient centralized healthcare system include improved care coordination, enhanced patient safety, empowered patient engagement, data-driven insights, population health management, and compliance with data security regulations.
+
+
+4. PROJECT SCOPE
+The project scope of a patient centralized healthcare system encompasses various elements and objectives aimed at implementing an effective and comprehensive system. Firstly, it involves the consolidation and integration of patient data from various sources, such as electronic health records, medical devices, and other healthcare systems. This includes ensuring interoperability and seamless data exchange between different providers and healthcare settings.
+
+Additionally, the project scope encompasses the implementation of features and functionalities that facilitate care coordination and collaboration among healthcare providers.
+
+Finally, the project scope includes ongoing maintenance, updates, and enhancements of the centralized healthcare system to keep pace with technological advancements, regulatory requirements, and evolving healthcare needs.
+
+In summary, the project scope of a patient centralized healthcare system covers data integration, user-friendly interfaces, secure data management, care coordination features, decision support tools, patient engagement functionalities, training and change management activities, and system maintenance. By defining a clear project scope, healthcare organizations can effectively plan, develop, and implement a patient centralized healthcare system that meets the needs of patients, healthcare providers, and the organization.
+
+5. FUNCTIONAL REQUIREMENTS
+
+
+1.Workflows and UI Frames: Workflows and UI frames are critical functional requirements for a patient centralized healthcare to provide an engaging and seamless user experience for hospital staff and patient.
+
+2. To build a user-friendly interface that is easy to navigate can help users find what they need quickly and efficiently.
+
+3. Responsive design: The website should be optimized for different screen sizes and devices, ensuring that users have a seamless experience across desktop, tablet, and mobile devices.
+
+4. Login and registration: A secure login and registration system should be implemented to allow users to access their profiles and medical records.
+
+5. Medical record access: The website should provide patients with secure access to their medical records, allowing them to view and download their medical history, prescriptions, test results, and other related documents.
+
+
+– CATEGORIES
+
+ID	REQUIREMENT	PRIORITY
+1	   Workflows and UI frameworks 	     Immediate
+7	   Database Management System	     High
+2	   Patient Portal	     High
+3	   Hospital Portal	     Moderate
+4	   OTP Verification for Hospital to view patient’s medical records	     Moderate
+5	Forgot Password	     Low
+
+6. NON-FUNCTIONAL REQUIREMENTS
+
+ID	REQUIREMENT
+1	
+Usability Requirements:
+•	The website should have a clean and intuitive interface that is easy to navigate and use.
+•	The website should provide clear and concise instructions for hospital and patient to add, view new medical records.
+•	The website should be responsive and accessible on various devices, including desktops, laptops, tablets, and smartphones.
+
+
+2	
+Performance Requirements:
+•	The website should have a reliable and scalable hosting infrastructure to handle high traffic volumes and provide 99.9% uptime.
+•	The website should have an efficient database management system to handle large amounts of data.
+3	
+Scalability Requirements:
+•	The website should be designed with scalability in mind, enabling the site to grow its user base and expand its offerings.
+•	The website should be able to handle many concurrent users, especially during peak periods.
+
+
+4	
+Security and Privacy Requirements:
+•	The website should use AES encryption to secure user communications and data transfers, protecting user privacy and data security.
+•	The website should use strong authentication mechanisms and password policies, to prevent unauthorized access to user accounts.
+
+
+
+7. TIMELINE
+
+1.Planning Phase (1-2 weeks):
+•	Define project scope and requirements.
+•	Identify project stakeholders and establish communication channels.
+•	Develop project plan, timeline, and budget.
+•	Establish project team roles and responsibilities.
+
+2. Design Phase (3-4 weeks):
+•	Develop a patient portal that allows patients to view, update, and add medical records from their homes.
+•	Integrate the database model with the frontend of the website.
+3. Development Phase (5-6 weeks):
+•	Develop a hospital portal that allows healthcare providers to view and add new medical records for patients.
+•	Integrate the database model with the frontend of the website.
+•	Demonstrate the completed website after the integration of the front-end and database.
+ 
+
